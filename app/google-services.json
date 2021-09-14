@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "204594394489",
+    "project_id": "maplocation-701e2",
+    "storage_bucket": "maplocation-701e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204594394489:android:f5c220f9bede978bf66ba8",
+        "android_client_info": {
+          "package_name": "com.raj.maplocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204594394489-vlfd5fdc3i4deihvcrjs86g26ps6j7qi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAorapXIB-bVxKRsA_wv9UmSsWoye7Iay0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204594394489-vlfd5fdc3i4deihvcrjs86g26ps6j7qi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
